@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img align="center" src="https://github.com/rafa543/Frontend-dropbox-clone/blob/master/src/assets/logo.svg" width="250px"/>
+    <img align="center" src="https://github.com/rafa543/instagram-frontend/blob/master/src/assets/instagram-1.svg" width="250px"/>
     <a href="https://pt-br.reactjs.org/">🔗 Clone Instagram</a>
 </h1>
 <p align="center">🚀 Clone da aplicação Instagram feita com ReactJS</p>
@@ -8,15 +8,15 @@
 
 
 <p align="center">
-<img  src="https://github.com/rafa543/Frontend-dropbox-clone/blob/master/readme_imgs/telaHome.jpg" width="600px"/> 
-<img src="https://github.com/rafa543/Frontend-dropbox-clone/blob/master/readme_imgs/telaBox.jpg" width="600px"/>
+<img  src="https://github.com/rafa543/instagram-frontend/blob/master/home%20instagram.jpg" width="600px"/> 
+<img src="https://github.com/rafa543/instagram-frontend/blob/master/upload%20instagram.jpg" width="600px"/>
 </p>
 
 ### Features
 
-- [x] Cadastro de usuário
+- [x] Fazer uploads de fotos 
 
-- [x] Fazer uploads de arquivos
+- [x] Dar likes 
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
